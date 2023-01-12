@@ -1,0 +1,10 @@
+body{
+    background-size: cover;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(68, 62, 62);
+}
+canvas{
+    border-style: dashed;
+}
